@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Tadiwanashe Makoni 👋
 
-<!--
-**TadiwaMakoni05/TadiwaMakoni05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who loves coding. I enjoy solving complex problems, learning new technologies, and building innovative projects. My goal is to continuously improve and contribute to open-source communities while sharing my knowledge with others.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, TypeScript
+- **Backend:** Django
+- **Databases:**  MySQL, PostgreSQL
+- **Other:** Git,REST APIs, WebSockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Currently Learning
+- Typescript
+- Next Js
+- React Native
+
+## 📫 Connect with Me
+- Whatsapp: +263772675611
+- LinkedIn: https://www.linkedin.com/in/tadiwa-makoni-95006a2a4/
+- Email: tadiwa.makoni13@gmail.com
+
+💡 *Collaborate. Grow. Innovate!*
+
